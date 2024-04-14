@@ -1,5 +1,5 @@
-# Viva Hotel Website  
-The WIP demo for the Viva Nord Hostel (soon to be Viva Nord Hotel) website.  
+# Viva Nord Hotel Website  
+The WIP demo for the Viva Nord Hotel (currently Viva Nord Hostel) website.  
 
 ## What I'm using:
 - Bootstrap 5.3
@@ -8,4 +8,4 @@ The WIP demo for the Viva Nord Hostel (soon to be Viva Nord Hotel) website.
 ## [Click me](https://anotherskye2.github.io/vivahotels) to see the demo!
 
 ## The current placeholder website:  
-https://vivahotels.ee - NB! This website was not created by me! It was made by the owner of Viva Nord Hostel.
+https://vivahotels.ee - NB! This website was not created by me! It was made by the owner of Viva Nord Hostel, Viva Kinnisvara OÜ.
