@@ -1,0 +1,41 @@
+.navbar-brand {
+    height: fit-content;
+}
+
+.nav-item {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.navbar-nav {
+    --bs-nav-link-hover-color: #d42d25;
+}
+
+.nav-item .highlighted {
+    background-color: #d42d25;
+    color: white;
+}
+
+.highlighted:hover {
+    background-color: #9a221b;
+}
+
+.dropdown-menu {
+    --bs-dropdown-min-width: none;
+}
+
+.dropdown-menu[data-bs-popper] {
+    left: auto;
+}
+
+.nav-link {
+    width: fit-content;
+    --bs-nav-link-padding-x: 0.5rem;
+}
+
+
+@media (max-width: 575.98px) {
+    .border-bottom {
+        display: none;
+    }
+  }
