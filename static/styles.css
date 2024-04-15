@@ -71,7 +71,7 @@
     transform: translate(-50%, -50%); 
     background: linear-gradient(transparent, 90%, white, white); 
     height: 101%;
-    width: 101%;
+    width: 100%;
   }
 
 .text-container {
